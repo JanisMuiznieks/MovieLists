@@ -16,6 +16,7 @@
 		4E0C225225CAEF87002C4E6E /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E0C225125CAEF87002C4E6E /* DetailViewController.swift */; };
 		4E0C225725CAEFC1002C4E6E /* Movie.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E0C225625CAEFC1002C4E6E /* Movie.swift */; };
 		4E0C225B25CAEFD1002C4E6E /* DataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E0C225A25CAEFD1002C4E6E /* DataManager.swift */; };
+		4E0C226025CB204D002C4E6E /* AppInfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E0C225F25CB204D002C4E6E /* AppInfoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		4E0C225125CAEF87002C4E6E /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		4E0C225625CAEFC1002C4E6E /* Movie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Movie.swift; sourceTree = "<group>"; };
 		4E0C225A25CAEFD1002C4E6E /* DataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataManager.swift; sourceTree = "<group>"; };
+		4E0C225F25CB204D002C4E6E /* AppInfoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppInfoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				4E0C224E25CAEF64002C4E6E /* MovieListTableViewController.swift */,
 				4E0C225125CAEF87002C4E6E /* DetailViewController.swift */,
+				4E0C225F25CB204D002C4E6E /* AppInfoViewController.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -190,6 +193,7 @@
 				4E0C225B25CAEFD1002C4E6E /* DataManager.swift in Sources */,
 				4E0C223425CAEEA9002C4E6E /* AppDelegate.swift in Sources */,
 				4E0C223625CAEEA9002C4E6E /* SceneDelegate.swift in Sources */,
+				4E0C226025CB204D002C4E6E /* AppInfoViewController.swift in Sources */,
 				4E0C225225CAEF87002C4E6E /* DetailViewController.swift in Sources */,
 				4E0C225725CAEFC1002C4E6E /* Movie.swift in Sources */,
 			);
